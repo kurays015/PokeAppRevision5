@@ -1,4 +1,4 @@
-@media screen and (max-width: 441px) {
+@media screen and (max-width: 499px) {
   .pokemonTypesContainer,
   .rendered-pokemons {
     grid-template-columns: repeat(3, 1fr);  

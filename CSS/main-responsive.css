@@ -47,6 +47,7 @@
   }
   .pokemon-logo {
     width: 50px;
+    z-index: 35;
   }
   .poke-img {
     width: 100px;

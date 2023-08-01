@@ -103,9 +103,12 @@
     font-size: 0.6rem;
     padding: 0.8em;
   }
-  .generations-container.grid,
+   .generations-container.grid { 
+    grid-template-columns: repeat(3, 1fr);
+    padding-left: 0;
+    padding-right: 0;
+  }
   .pokemonTypesContainer.grid {
-    
     grid-template-columns: repeat(2, 1fr);
     padding-left: 0;
     padding-right: 0;
